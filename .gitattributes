@@ -1,0 +1,2 @@
+advancedGAN/data/ck* filter=lfs diff=lfs merge=lfs -text
+basicGAN/MNIST/ filter=lfs diff=lfs merge=lfs -text
